@@ -1,5 +1,5 @@
 # mbta
-his is an exercise developed during MIT xPro Professional Certificate in Coding: Full Stack Development with MERN.
+This is an exercise developed during MIT xPro Professional Certificate in Coding: Full Stack Development with MERN.
 
 The goal of this exercise is to fetch data from an API and use it to animate a map.
 
